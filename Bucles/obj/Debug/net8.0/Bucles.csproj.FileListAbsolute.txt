@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Bucles\bin\Debug\net8.0\Bucles.exe
+C:\Users\Usuario\source\repos\Bucles\bin\Debug\net8.0\Bucles.deps.json
+C:\Users\Usuario\source\repos\Bucles\bin\Debug\net8.0\Bucles.runtimeconfig.json
+C:\Users\Usuario\source\repos\Bucles\bin\Debug\net8.0\Bucles.dll
+C:\Users\Usuario\source\repos\Bucles\bin\Debug\net8.0\Bucles.pdb
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\Bucles.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\Bucles.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\Bucles.dll
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\refint\Bucles.dll
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\Bucles.pdb
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\Bucles.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Bucles\obj\Debug\net8.0\ref\Bucles.dll
